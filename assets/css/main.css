@@ -1840,6 +1840,12 @@
 		text-decoration: none;
 	}
 
+	h1 {
+		font-size: 2.25em;
+		letter-spacing: -2px;
+		line-height: 1.25em;
+	}
+
 	h2 {
 		font-size: 2.25em;
 		letter-spacing: -2px;
@@ -2276,6 +2282,12 @@
 			text-align: center;
 			padding: 3em 0 3em 0;
 		}
+
+			.main.style1 h1 {
+				font-size: 4.25em;
+				line-height: 1em;
+				letter-spacing: -4px;
+			}
 
 			.main.style1 h2 {
 				font-size: 4.25em;
@@ -3323,6 +3335,11 @@
 				line-height: 1.5em;
 			}
 
+			h1 {
+				font-size: 1.5em;
+				letter-spacing: -1px;
+			}
+
 			h2 {
 				font-size: 1.5em;
 				letter-spacing: -1px;
@@ -3349,10 +3366,14 @@
 				padding: 4em 15px 4em 15px;
 			}
 
-				.main.style1 h2 {
+				.main.style1 h1 {
 					font-size: 3em;
 					letter-spacing: -3px;
 				}
+
+				.main.style1 h2 {
+					font-size: 3em;
+					l
 
 			.main.style2 {
 				padding: 6em 15px 6em 15px;
